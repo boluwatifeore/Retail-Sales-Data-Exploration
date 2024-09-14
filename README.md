@@ -86,4 +86,4 @@ Based on my findings, I recommend the following;
 
 While trying to input the month and year slicers in my visualization dashboard to further gain insights into my analysis, I had realized there were some other values that aren't supposed to be included in each slicers, for example, the slicer for months of the year had Jan to Dec including values such as '21/09/22*'in two fields, which got me very confused and even after trying sveral ways to fix the error, it wasn't working. After several hours, I was able to eventually find my way around fixing the error.
 
-Thank you for redaing! 😄
+Thank you for reading! 😄
